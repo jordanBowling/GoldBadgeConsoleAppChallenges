@@ -1,2 +1,0 @@
-C:\ElevenFiftyProjects\100SDGold\GoldBageConsoleAppChallenges\Cafe.MenuTests\obj\Debug\Cafe.MenuRepositoryTests.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\100SDGold\GoldBageConsoleAppChallenges\Cafe.MenuTests\obj\Debug\Cafe.MenuRepositoryTests.csproj.CoreCompileInputs.cache
